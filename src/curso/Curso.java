@@ -33,7 +33,7 @@ public class Curso  {
         LibroCalificaciones libroCalificaciones = new LibroCalificaciones(null);
         LibroCalificaciones libroCiencias = new LibroCalificaciones(null);
         
-        JOptionPane.showMessageDialog(null, "BIENVENIDO A JAVA SE");
+        JOptionPane.showMessageDialog(null, "BIENVENIDO A JAVA SE3");
        
         String nombre = JOptionPane.showInputDialog("Cuale es su Nombre");
         
