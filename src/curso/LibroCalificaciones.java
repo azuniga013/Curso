@@ -19,7 +19,7 @@ public class LibroCalificaciones {
     * 
     */
     
-  public  String  nombredelCurso = "Texto2" ;
+  public  String  nombredelCurso = "Texto25" ;
     
     public LibroCalificaciones( String cursoVarios) {
         this.nombredelCurso = cursoVarios;
